@@ -1,4 +1,4 @@
-#✂️ Pedra, Papel e Tesoura em Python
+# Pedra, Papel e Tesoura em Python
 
 Um jogo simples de Pedra, Papel e Tesoura feito em Python, que salva o histórico de partidas em um arquivo JSON.
 
