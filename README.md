@@ -1,4 +1,4 @@
-# 🪨📄✂️ Pedra, Papel e Tesoura em Python
+#✂️ Pedra, Papel e Tesoura em Python
 
 Um jogo simples de Pedra, Papel e Tesoura feito em Python, que salva o histórico de partidas em um arquivo JSON.
 
@@ -11,9 +11,11 @@ Um jogo simples de Pedra, Papel e Tesoura feito em Python, que salva o históric
 ## 🛠️ Tecnologias usadas
 - Python 3
 - JSON (armazenamento de dados)
+- Random (biblioteca python)
+- Datetime (biblioteca python)
 
 ## ▶️ Como executar
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/SEU_USUARIO/pedra-papel-tesoura.git
+git clone https://github.com/gdTech1/pedra-papel-tesoura.git
